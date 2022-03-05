@@ -1,0 +1,38 @@
+agenda:
+-(R) = realizzato
+
+Home
+-presentazione generalae del progetto
+
+Casa:
+-parti realizzati:
+ -antifurto (on/off tramite bottone)
+ -sistema illuminazione interna (R)
+ -porta automatica tramite motore
+ 
+-parti non realizzati:
+  -sistema aerazione
+  -visualizzazione temperatura interna
+  -orologio interno
+  -struttura in ferro
+  -radio (Carmine)
+  -collegamento tetto tramite PIN + pannello solare
+  -tende automatiche
+  -discoteca (Giacomo)
+  -sblocco antifurto tramite codice
+
+Giardino
+-parti realizzati:
+ -sistema irrigazione giardino (R)
+ -impianto illuminazione esterna tramite fotoresistenza
+ -cancello realizzo (tramite controllo remoto (probabile))
+ -cartello tramite il "monitor"
+
+-parti non realizzati:
+  -pannelli solari che seguirà il sole(Ravelli)
+  -garage
+  -basculante
+  -fontana
+
+Programmazione
+-i vari codici di programmazione in arduino con le varie descrizioni
